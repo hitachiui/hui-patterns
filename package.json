@@ -1,0 +1,23 @@
+{
+  "name": "hui-patterns",
+  "version": "0.1.0",
+  "description": "Pattern Lab Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitachiui/hui-patterns.git"
+  },
+  "author": "Mark Cullen <mark.cullen@hitachicapital.co.uk> (http://www.hitachicapital.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitachiui/hui-patterns/issues"
+  },
+  "homepage": "https://github.com/hitachiui/hui-patterns#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
